@@ -19,7 +19,7 @@ After our lecture in Express and ES6, you will find below a challenge to practic
 	     {
 	     "id": 1, 
 	     "title": "Dune", 
-	     "author": "Frank Herbert, 
+	     "author": "Frank Herbert", 
 	     "year": 1965
 	     }, 
 	     {
